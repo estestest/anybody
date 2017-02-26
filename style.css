@@ -1,0 +1,47 @@
+a:hover { 
+    text-decoration:none;
+   
+}
+
+h1 { 
+    font-family: 'Goudy Text', 'regular';
+    color: white;
+    font-weight:200;
+    font-size: 90px;
+    line-height: 10px;
+}
+h3 {
+    font-family: 'Goudy Text','regular';
+    color: white;
+    font-size: 20px;
+    font-weight:1;
+    word-spacing:5px;
+}
+h5 {
+    font-size: 20px;
+    color: white;
+    word-spacing:50px;
+}
+body {top: 0px;
+    background-color:#969696;
+    word-spacing:50px;
+}
+
+p {  margin:0px;
+     padding:0px;
+    color: #fff;
+    font-family:  'Goudy Text', 'regular';
+    font-size:24px;
+   
+}
+
+blockquote {
+ margin:0px;
+ padding-top:200px;
+    padding-bottom: 30px;
+    }
+
+
+
+
+
