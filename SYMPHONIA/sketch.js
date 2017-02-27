@@ -54,7 +54,7 @@ function preload() {
   imgCuore = loadImage("file/Cuore.png");
   soundCuore = loadSound('file/Cuore.mp3');
   //img polmoni
-  imgPolmoni = loadImage("file/Polmoni.png");
+  imgPolmoni = loadImage("file/polmoni.png");
   soundPolmoni = loadSound('file/Polmoni.mp3');
   //img ciglia
   imgCiglia = loadImage("file/Ciglia.png");
